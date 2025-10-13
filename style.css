@@ -3,7 +3,7 @@
     ---blue: #5959c5;
     --grey: #ffffffb2;
     --text-dark: #333333;
-    --link-hover: #39106a;
+    --link-hover: #2c2632;
     
   }
   /* color scheme */
@@ -26,6 +26,7 @@
   header h1 {
     margin: 0;
     font-size: 2.5rem;
+    float:;
   }
   
   header p {
@@ -107,7 +108,7 @@ padding: 2px;
     color: var(--link-hover);
     text-decoration: underline;
   opacity: 10;
-box-shadow: 0 0 10px;}
+box-shadow: 0 6px 15px ;}
     /* hover effect */
     ul{
       list-style-type: circle;
